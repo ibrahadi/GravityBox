@@ -7,6 +7,8 @@
     <string name="battery_style_stock">Indicador de bateria padrão</string>
     <string name="battery_style_circle">Indicador de bateria circular</string>
     <string name="battery_style_circle_percent">Indicador de bateria circular com porcentagem</string>
+    <string name="battery_style_kitkat">Estilo do indicador de bateria Kitkat</string>
+     <string name="battery_style_kitkat_percent">Estilo do indicador de bateria Kitkat com porcentagem</string>
     <string name="battery_style_percent">Texto da porcentagem de bateria</string>
     <string name="battery_style_none">Nenhum</string>
 
